@@ -1,0 +1,14 @@
+@media screen and (min-width: 90rem) {
+
+    body {
+        background-position: bottom 240px right 740px, top 350px left 700px; 
+    }
+
+    .card__body {
+        transform: translateY(8px);
+    }
+
+    .card__footer {
+        transform: translateY(-2px);
+    }
+}
